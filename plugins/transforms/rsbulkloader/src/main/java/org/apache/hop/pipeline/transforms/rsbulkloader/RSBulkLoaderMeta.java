@@ -15,5 +15,5 @@ import org.apache.hop.pipeline.transforms.pgbulkloader.PGBulkLoaderMeta;
         documentationUrl = "/pipeline/transforms/redshiftbulkloader.html")
 public class RSBulkLoaderMeta extends PGBulkLoaderMeta  {
 
-
+    private static final Class<?> PKG = RSBulkLoaderMeta.class; // For Translator
 }

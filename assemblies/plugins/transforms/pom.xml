@@ -165,6 +165,7 @@
     <module>xml</module>
     <module>yamlinput</module>
     <module>zipfile</module>
+    <module>rsbulkloader</module>
   </modules>
 
 </project>
