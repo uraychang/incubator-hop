@@ -110,6 +110,7 @@
                 <module>filestoresult</module>
                 <module>filterrows</module>
                 <module>flattener</module>
+                <module>formula</module>
                 <module>fuzzymatch</module>
                 <module>getfilenames</module>
                 <module>getfilesrowcount</module>
@@ -199,7 +200,6 @@
                 <module>xml</module>
                 <module>yamlinput</module>
                 <module>zipfile</module>
-                <module>formula</module>
             </modules>
         </profile>
 
